@@ -5,6 +5,7 @@ public class Calculator {
         int i;
         int User2;
         int fffbbbb;
+        int SUPER;
         char operation = scanner.next().charAt(0);
         Float operand2 = (float) 0;
         switch (operation) {
