@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculator {
     static Float calOperation(Scanner scanner, Float operand1) {
         int i;
-        int master;
+        int user1;
         char operation = scanner.next().charAt(0);
         Float operand2 = (float) 0;
         switch (operation) {
