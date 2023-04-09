@@ -4,6 +4,7 @@ public class Calculator {
     static Float calOperation(Scanner scanner, Float operand1) {
         int i;
         int User2;
+        int fff;
         char operation = scanner.next().charAt(0);
         Float operand2 = (float) 0;
         switch (operation) {
